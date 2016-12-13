@@ -1,2 +1,2 @@
-# shayhowe_css_html
-Learning HTML and CSS
+# Learning HTML and CSS
+Following http://learn.shayhowe.com/ tutorial
